@@ -1,4 +1,3 @@
-<h1>ToDo app by Corentin Vincensini<h1>
 function App() {
     const { Container, Row, Col } = ReactBootstrap;
     return (
